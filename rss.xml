@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bonosoap Blog]]></title><description><![CDATA[フルリモート勤務 / 子育て / 猫 / 趣味 ]]></description><link>https://bonosoap.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Oct 2019 10:46:06 GMT</lastBuildDate><item><title><![CDATA[First post]]></title><description><![CDATA[Gatsby.js学習の為のサイト。最初の投稿。]]></description><link>https://bonosoap.github.io/blog/hello-world/</link><guid isPermaLink="false">https://bonosoap.github.io/blog/hello-world/</guid><pubDate>Thu, 03 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Gatsby.js学習の為のサイト。最初の投稿。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bonosoap Blog]]></title><description><![CDATA[フルリモート勤務 / 子育て / 猫 / 趣味 ]]></description><link>https://bonosoap.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Oct 2019 11:54:41 GMT</lastBuildDate><item><title><![CDATA[Blogお引っ越し]]></title><description><![CDATA[この度、仕事のスキルアップと評して、Gatsby.jsというWebの技術を学びつつ、10年お世話になったブログサイト環境を「Wordpress + さくらレンタルサーバー」から「Gatsby.js + GitHub Pagas」に移行しました。
+Gatsby.js…]]></description><link>https://bonosoap.github.io/blog/Blogお引っ越し/</link><guid isPermaLink="false">https://bonosoap.github.io/blog/Blogお引っ越し/</guid><pubDate>Thu, 03 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;この度、仕事のスキルアップと評して、Gatsby.jsというWebの技術を学びつつ、10年お世話になったブログサイト環境を「Wordpress + さくらレンタルサーバー」から「Gatsby.js + GitHub Pagas」に移行しました。
+Gatsby.jsは難しいですが、年に数回の投稿なっていたのでレンタルサーバー代惜しさに集中しました。。。&lt;/p&gt;
+&lt;p&gt;気が付けば娘はこの春小学生になり、私はフルリモートでお仕事させて頂ける様になり、時代は令和になり、、、。
+ブログ立ち上げた当時の手作り石けんの記事を一部ですが移行しながら懐かしく思いつつ、、、。
+また石けんなどを作れたらと思います。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
